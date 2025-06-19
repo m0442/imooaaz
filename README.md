@@ -20,11 +20,11 @@ From bug bounty writeups and CTF labs to recon tools and field notes — everyth
 
 ## 🧠 Summary
 
-- 🐞 **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies protect their digital assets  
-- 👨‍🏫 **Community Contributor** — IEEE Cybersecurity Core Member  
-- 🧰 **Builder** — Developed `RecoGun`, an automated recon tool integrating APIs and OSINT sources  
-- 📦 **Web Dev Background** — Experience with Node.js, MongoDB, HTML/CSS/JavaScript  
-- 🔬 **Intern** — Offensive Security Intern at **Cybexplor** *(Oct 2023 – Jan 2024)*
+-  **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies protect their digital assets  
+-  **Community Contributor** — IEEE Cybersecurity Core Member  
+-  **Builder** — Developed `RecoGun`, an automated recon tool integrating APIs and OSINT sources  
+-  **Web Dev Background** — Experience with Node.js, MongoDB, HTML/CSS/JavaScript  
+-  **Intern** — Offensive Security Intern at **Cybexplor** *(Oct 2023 – Jan 2024)*
 
 ---
 
