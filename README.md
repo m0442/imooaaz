@@ -63,7 +63,7 @@ It includes practical insights from bug bounty reports, CTF challenges, and inde
 
 **Bachelor of Science in Computer Science & Engineering**\
 Faculty of Electronic Engineering, Menoufia University\
-\&#xNAN;_Currently Enrolled_
+&#x20;_Currently Enrolled_
 
 ***
 
