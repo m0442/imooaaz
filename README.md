@@ -60,8 +60,9 @@ Faculty of Electronic Engineering, Menoufia University\
 
 * 📧 Email: [imooaaz@gmail.com](mailto:imooaaz@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/imooaaz](https://linkedin.com/in/imooaaz)
-* 🐙 GitHub: [github.com/m0442](https://github.com/m0442)
 * ✍️ Medium: [@imooaaz](https://medium.com/@imooaaz)
+* 🐙 GitHub: [github.com/m0442](https://github.com/m0442)
+
 
 ***
 
