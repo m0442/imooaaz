@@ -13,8 +13,10 @@ BSc in Computer Science & Engineering – Menoufia University *(Present)*
 
 I’m **Moaaz Afifi**, a cybersecurity enthusiast passionate about **ethical hacking**, **vulnerability research**, and **real-world security testing**.
 
-This blog is my curated space to document what I learn, build, and discover.  
-From bug bounty writeups and CTF labs to recon tools and field notes — everything here reflects my mindset as an ethical hacker and lifelong learner.
+
+This blog is a structured space where I document what I learn, build, and explore in the field of cybersecurity.
+
+It includes practical insights from bug bounty reports, CTF challenges, and independent research — as well as tools, notes, and techniques that reflect my mindset as an ethical hacker committed to continuous growth and hands-on learning.
 
 ---
 
@@ -39,7 +41,7 @@ From bug bounty writeups and CTF labs to recon tools and field notes — everyth
 
 **Bachelor of Science in Computer Science & Engineering**  
 Faculty of Electronic Engineering, Menoufia University  
-📍 *Currently Enrolled*
+ *Currently Enrolled*
 
 ---
 
