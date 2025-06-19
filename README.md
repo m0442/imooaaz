@@ -1,8 +1,27 @@
 ---
-description: Where I learn, build, break (ethically), and share.
+cover: .gitbook/assets/xiong-yan-t9x-GgewZPw-unsplash.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🙋‍♂️ Welcome to my Cyberspace
+# 👨‍💼 Whoami
+
+## 🙋‍♂️Welcome to my Cyberspace
+
+&#x20;      Where I learn, build, break (ethically), and share.
 
 ***
 
@@ -23,7 +42,7 @@ It includes practical insights from bug bounty reports, CTF challenges, and inde
 
 ***
 
-## 🧠 Summary
+## &#x20;Summary
 
 * **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies protect their digital assets
 * **Community Contributor** — IEEE Cybersecurity Core Member
@@ -44,7 +63,7 @@ It includes practical insights from bug bounty reports, CTF challenges, and inde
 
 **Bachelor of Science in Computer Science & Engineering**\
 Faculty of Electronic Engineering, Menoufia University\
-&#xNAN;_&#x43;urrently Enrolled_
+\&#xNAN;_Currently Enrolled_
 
 ***
 
@@ -62,7 +81,6 @@ Faculty of Electronic Engineering, Menoufia University\
 * 💼 LinkedIn: [linkedin.com/in/imooaaz](https://linkedin.com/in/imooaaz)
 * ✍️ Medium: [@imooaaz](https://medium.com/@imooaaz)
 * 🐙 GitHub: [github.com/m0442](https://github.com/m0442)
-
 
 ***
 
