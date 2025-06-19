@@ -5,7 +5,7 @@ Where I learn, build, break (ethically), and share.
 
 ## 👨‍💻 Moaaz Afifi  
 **Penetration Tester** | **Cybersecurity Researcher** | **Bug Hunter**  
-BSc in Computer Science & Engineering – Menoufia University *prensent*
+BSc in Computer Science & Engineering – Menoufia University *(Present)*
 
 ---
 
@@ -20,45 +20,34 @@ From bug bounty writeups and CTF labs to recon tools and field notes — everyth
 
 ## 🧠 Summary
 
-- 🐞 **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies to protect it's digital assets 
-- 👨‍🏫 **Community Contributor** — IEEE Cybersecurity Core Member
+- 🐞 **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies protect their digital assets  
+- 👨‍🏫 **Community Contributor** — IEEE Cybersecurity Core Member  
 - 🧰 **Builder** — Developed `RecoGun`, an automated recon tool integrating APIs and OSINT sources  
-- 📦 **Web Dev Background** — with Node.js, MongoDB, HTML/CSS/JS  
-- 🔬 **Intern** — Offensive Security Intern at **Cybexplor** (Oct 2023 – Jan 2024)
-
----
-
-## 🛠️ Technical Skills
-
-| Category               
-|------------------------
-| Web Security          
-| Recon & OSINT         
-| Mobile Pentesting      
-| Web Development        | Node.js (backend), MongoDB, JavaScript, HTML/CSS |
+- 📦 **Web Dev Background** — Experience with Node.js, MongoDB, HTML/CSS/JavaScript  
+- 🔬 **Intern** — Offensive Security Intern at **Cybexplor** *(Oct 2023 – Jan 2024)*
 
 ---
 
 ## 📁 Projects
 
 - 🚀 **RecoGun** – Automated reconnaissance tool combining multiple APIs and wordlists  
-- 🛰️ **NASA Mission Control (Node.js)** – Web app simulating space mission planning (MongoDB + Express)  
+- 🛰️ **NASA Mission Control (Node.js)** – A web app simulating space mission planning (MongoDB + Express)  
 
 ---
 
 ## 🎓 Education
 
-**BSc in Computer Science & Engineering**  
+**Bachelor of Science in Computer Science & Engineering**  
 Faculty of Electronic Engineering, Menoufia University  
- *Present*
+📍 *Currently Enrolled*
 
 ---
 
 ## 💬 Soft Skills
 
-- Strong technical writing and communication  
-- Teamwork and mentoring experience  
-- Detail-oriented, research-driven, and highly motivated to learn
+- Clear technical writing & documentation  
+- Team collaboration & mentoring  
+- Detail-oriented and driven by real-world challenges
 
 ---
 
@@ -71,4 +60,4 @@ Faculty of Electronic Engineering, Menoufia University
 
 ---
 
-> _"Curiosity led me here. Discipline keeps me going."_  
+> _"Curiosity led me here. Discipline keeps me going."_
