@@ -53,7 +53,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 * **Bug Bounty Hunting** — Reporting impactful issues across global programs  
 * **Security Research** — Exploring attack techniques, recon workflows, and exploitation strategies  
 * **Offensive Tooling** — Building automation for reconnaissance and vulnerability discovery  
-
+* **loading more..** 
 ***
 
 ## Core Strengths
@@ -69,7 +69,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 
 * **Web/API Penetration Tester** — Security testing engagements across the GCC  
 * **Bug Bounty Hunter** — Reported vulnerabilities across programs like ByteDance, iHerb, StubHub, Fossil, and more  
-* **Application Security  @ Robusta** — Worked on real-world AppSec testing and SAST/DAST workflows
+* **Application Security Engineer @ Robusta** — Worked on real-world AppSec testing and SAST/DAST workflows
 * 
 ***
 
