@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 👨‍💼 Whoami
+#  Whoami
 
 ## 🙋‍♂️ Welcome to my Cyberspace
 
@@ -47,7 +47,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 
 ***
 
-## 🚀 What I Do
+##  What I Do
 
 * **Web & API Penetration Testing** — Finding real-world vulnerabilities in modern applications  
 * **Bug Bounty Hunting** — Reporting impactful issues across global programs  
@@ -73,7 +73,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 * 
 ***
 
-## 📁 Projects
+##  Projects
 
 * **StealParser** — Parser & analyzer for info-stealer logs with data visualization  
 * **PressHawk** — WordPress plugin security scanner (Semgrep-based)  
@@ -82,7 +82,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 
 ***
 
-## 🏅 Community & Leadership
+##  Community & Leadership
 
 * **Cybersecurity Core Member — IEEE MSB**  
 * Contributor to workshops and sessions on ethical hacking and web security  
@@ -95,8 +95,8 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 * 📧 Email: [imooaaz@gmail.com](mailto:imooaaz@gmail.com)  
 * 💼 LinkedIn: [linkedin.com/in/imooaaz](https://linkedin.com/in/imooaaz)  
 * 🐙 GitHub: [github.com/m0442](https://github.com/m0442)  
-* 📘 Blog: [moaaz.gitbook.io]
+* 📘 Blog: [moaaz.gitbook.io](https://moaaz.gitbook.io/)
 
 ***
 
-> _"Think like an attacker. Build like a defender. and Free Palestine 🇵🇸"_
+> _"Think like an attacker. Build like a defender. and Free Palestine 𓂆 🇵🇸"_
