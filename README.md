@@ -19,69 +19,84 @@ layout:
 
 # 👨‍💼 Whoami
 
-## 🙋‍♂️Welcome to my Cyberspace
+## 🙋‍♂️ Welcome to my Cyberspace
 
-&#x20;      Where I learn, build, break (ethically), and share.
+Where I learn, build, break (ethically), and document the journey.
 
 ***
 
 ## 👨‍💻 Moaaz Afifi
 
-**Penetration Tester** | **Cybersecurity Researcher** | **Bug Hunter**\
-BSc in Computer Science & Engineering – Menoufia University _(Present)_
+**Cybersecurity Engineer** | **Web & API Penetration Tester** | **Bug Bounty Hunter**
+
+BSc in Computer Science & Engineering  
+Faculty of Electronic Engineering, Menoufia University  
+
 
 ***
 
-## 🕵️‍♀️ Whoami
+## 🕵️ About Me
 
-I’m **Moaaz Afifi**, a cybersecurity enthusiast passionate about **ethical hacking**, **vulnerability research**, and **real-world security testing**.
+I’m **Moaaz Afifi**, a cybersecurity engineer focused on **offensive security**, **web and API penetration testing**, and **real-world vulnerability research**.
 
-This blog is a structured space where I document what I learn, build, and explore in the field of cybersecurity.
+I work on identifying, exploiting, and reporting security issues across modern applications, combining an attacker mindset with a developer background to uncover impactful vulnerabilities beyond automated tools.
 
-It includes practical insights from bug bounty reports, CTF challenges, and independent research — as well as tools, notes, and techniques that reflect my mindset as an ethical hacker committed to continuous growth and hands-on learning.
+Currently, I operate as a **Application Security Engineer**, delivering security assessments and remediation-focused reports for clients across the GCC region.
+
+This blog is my digital lab — a place where I share writeups, tools, methodologies, and lessons learned from real-world testing, CTFs, and security research.
 
 ***
 
-## &#x20;Summary
+## 🚀 What I Do
 
-* **Bug Bounty Hunter** — Reported impactful vulnerabilities and helped companies protect their digital assets
-* **Community Contributor** — IEEE Cybersecurity Core Member
-* **Builder** — Developed `RecoGun`, an automated recon tool integrating APIs and OSINT sources
-* **Web Dev Background** — Experience with Node.js, MongoDB, HTML/CSS/JavaScript
-* **Intern** — Offensive Security Intern at **Cybexplor** _(Oct 2023 – Jan 2024)_
+* **Web & API Penetration Testing** — Finding real-world vulnerabilities in modern applications  
+* **Bug Bounty Hunting** — Reporting impactful issues across global programs  
+* **Security Research** — Exploring attack techniques, recon workflows, and exploitation strategies  
+* **Offensive Tooling** — Building automation for reconnaissance and vulnerability discovery  
 
+***
+
+## Core Strengths
+
+* Deep understanding of **OWASP Top 10** (IDOR, SSRF, XSS, CSRF, CORS, Auth flaws)  
+* Strong experience in **reconnaissance automation**, **endpoint mapping**, and **vulnerability triage**  
+* Skilled in tools like **Burp Suite, Nmap, Nessus, Acunetix, Invicti, ffuf, dirsearch, SQLMap, Amass, Subfinder, Chaos, Wireshark**  
+* Familiar with **Secure SDLC**, **DevSecOps practices**, and professional reporting  
+
+***
+
+##  Experience Highlights
+
+* **Web/API Penetration Tester** — Security testing engagements across the GCC  
+* **Bug Bounty Hunter** — Reported vulnerabilities across programs like ByteDance, iHerb, StubHub, Fossil, and more  
+* **Application Security  @ Robusta** — Worked on real-world AppSec testing and SAST/DAST workflows
+* 
 ***
 
 ## 📁 Projects
 
-* 🚀 **RecoGun** – Automated reconnaissance tool combining multiple APIs and wordlists
-* 🛰️ **NASA Mission Control (Node.js)** – A web app simulating space mission planning (MongoDB + Express)
+* **StealParser** — Parser & analyzer for info-stealer logs with data visualization  
+* **PressHawk** — WordPress plugin security scanner (Semgrep-based)  
+* **RecoGun** — Automated recon tool integrating APIs and OSINT workflows  
+* **NASA Mission Control** — Full-stack Node.js + MongoDB application  
 
 ***
 
-## 🎓 Education
+## 🏅 Community & Leadership
 
-**Bachelor of Science in Computer Science & Engineering**\
-Faculty of Electronic Engineering, Menoufia University\
-&#xNAN;_&#x43;urrently Enrolled_
-
-***
-
-## 💬 Soft Skills
-
-* Clear technical writing & documentation
-* Team collaboration & mentoring
-* Detail-oriented and driven by real-world challenges
+* **Cybersecurity Core Member — IEEE MSB**  
+* Contributor to workshops and sessions on ethical hacking and web security  
+* Passionate about knowledge sharing and mentoring  
 
 ***
 
 ## 📫 Let’s Connect
 
-* 📧 Email: [imooaaz@gmail.com](mailto:imooaaz@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/imooaaz](https://linkedin.com/in/imooaaz)
-* ✍️ Medium: [@imooaaz](https://medium.com/@imooaaz)
-* 🐙 GitHub: [github.com/m0442](https://github.com/m0442)
+* 📧 Email: [imooaaz@gmail.com](mailto:imooaaz@gmail.com)  
+* 💼 LinkedIn: [linkedin.com/in/imooaaz](https://linkedin.com/in/imooaaz)  
+* 🐙 GitHub: [github.com/m0442](https://github.com/m0442)  
+* 📘 Blog: [moaaz.gitbook.io]
 
 ***
 
-> _"Curiosity led me here. Discipline keeps me going."_
+> _"Think like an attacker. Build like a defender. and Free Palestine 🇵🇸"_
