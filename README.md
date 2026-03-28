@@ -37,11 +37,11 @@ Faculty of Electronic Engineering, Menoufia University
 
 ## 🕵️ About Me
 
-I’m **Moaaz Afifi**, a cybersecurity engineer focused on **offensive security**, **web and API penetration testing**, and **real-world vulnerability research**.
+I’m **Moaaz Afifi**, a Cybersecurity Engineer focused on **offensive security**, **App Sec**, **web and API penetration testing**, and **real-world vulnerability research**.
 
-I work on identifying, exploiting, and reporting security issues across modern applications, combining an attacker mindset with a developer background to uncover impactful vulnerabilities beyond automated tools.
+I work on identifying, exploiting, and reporting security issues across modern applications, combining an attacker mindset with a developer background to uncover impactful vulnerabilities.
 
-Currently, I operate as a **Application Security Engineer**, delivering security assessments and remediation-focused reports for clients across the GCC region.
+Currently, I operate as a **Application Security Engineer**, delivering security assessments and remediation-focused reports for clients across the GCC.
 
 This blog is my digital lab — a place where I share writeups, tools, methodologies, and lessons learned from real-world testing, CTFs, and security research.
 
@@ -70,7 +70,7 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 * **Web/API Penetration Tester** — Security testing engagements across the GCC  
 * **Bug Bounty Hunter** — Reported vulnerabilities across programs like ByteDance, iHerb, StubHub, Fossil, and more  
 * **Application Security Engineer @ Robusta** — Worked on real-world AppSec testing and SAST/DAST workflows
-* 
+* **loading more..**
 ***
 
 ##  Projects
@@ -78,7 +78,9 @@ This blog is my digital lab — a place where I share writeups, tools, methodolo
 * **StealParser** — Parser & analyzer for info-stealer logs with data visualization  
 * **PressHawk** — WordPress plugin security scanner (Semgrep-based)  
 * **RecoGun** — Automated recon tool integrating APIs and OSINT workflows  
-* **NASA Mission Control** — Full-stack Node.js + MongoDB application  
+* **NASA Mission Control** — Full-stack Node.js + MongoDB application
+* **loading more..**
+ 
 
 ***
 
